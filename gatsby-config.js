@@ -4,7 +4,7 @@ module.exports = {
 		{
 			resolve: "gatsby-wordpress-theme-phoenix",
 			options: {
-				wordPressUrl: 'http://localhost:8888/wordpress'
+				wordPressUrl: 'https://codeytek.com/headless-cms'
 			}
 		}
 		]
