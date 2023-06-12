@@ -10,7 +10,7 @@
     "gatsby-plugin-manifest": "^2.4.5",
     "gatsby-plugin-offline": "^3.2.3",
     "gatsby-plugin-react-helmet": "^3.3.1",
-    "gatsby-plugin-sharp": "^2.14.4",
+    "gatsby-plugin-sharp": "^5.4.0",
     "gatsby-source-filesystem": "^2.3.4",
     "gatsby-transformer-sharp": "^2.5.2",
     "gatsby-wordpress-theme-phoenix": "^1.0.9",
